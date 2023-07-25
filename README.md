@@ -58,6 +58,7 @@ A estrutura do projeto está da seguinte maneira:
 ├── index.html
 ├── LICENSE
 └── main.js
+```
 
 - O diretório `css/` contém os arquivos de estilo do projeto, `reset.css` e `style.css`.
 - O diretório `images/` contém uma imagem `drums.png` utilizada no projeto.
