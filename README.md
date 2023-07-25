@@ -11,6 +11,8 @@ No curso, foram abordados os seguintes tópicos:
 - Selecionar operadores lógicos adequados para diferentes situações
 - Produzir soluções simples para páginas dinâmicas.
 
+**[Acesse aqui o Alura-Midi pelo Github Pages](https://makenrosa.github.io/alura-midi/)**
+
 ## Como clonar o repositório
 
 Siga as etapas abaixo para clonar este repositório e executar o projeto em sua máquina local:
