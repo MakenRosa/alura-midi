@@ -11,7 +11,7 @@ No curso, foram abordados os seguintes tópicos:
 - Selecionar operadores lógicos adequados para diferentes situações
 - Produzir soluções simples para páginas dinâmicas.
 
-**[Acesse aqui o Alura-Midi pelo Github Pages](https://makenrosa.github.io/alura-midi/)**
+**[Acesse aqui o Midi pelo Github Pages](https://makenrosa.github.io/midi/)**
 
 ## Como clonar o repositório
 
@@ -26,7 +26,7 @@ Siga as etapas abaixo para clonar este repositório e executar o projeto em sua 
 4. Execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/makenrosa/alura-midi.git
+git clone https://github.com/makenrosa/midi.git
 ```
 
 Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
@@ -39,7 +39,7 @@ Para executar o projeto, abra o arquivo `index.html` no navegador de sua escolha
 
 A estrutura do projeto está da seguinte maneira:
 
-``` Alura-Midi
+``` Midi
 ├── css/
 │   ├── reset.css
 │   └── style.css
@@ -73,6 +73,6 @@ Certifique-se de que todos esses arquivos e diretórios estejam presentes corret
 
 Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/alura-midi/issues) neste repositório.
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/midi/issues) neste repositório.
 
 Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.
